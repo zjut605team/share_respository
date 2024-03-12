@@ -8,7 +8,7 @@
 |  工具   | 链接  | 使用教程| 优点|
 |  :----:  | :---- |  :---- | :----  |
 | **draw.io** | [draw.io]: http://www.draw.io     |  [Draw.io 教学](https://www.bilibili.com/video/BV1Tu411U7v7/?spm_id_from=333.337.search-card.all.click&vd_source=194b3e51914a9ddf37370d8009c00511)  |1.支持多人实时协作;<br>2.以将图表导出为多种格式，包括 PNG、JPEG、SVG、PDF 和 HTML;<br>3.跨平台等等。|
-|  **python-graph-gallery**  |   [python-graph-gallery](https://python-graph-gallery.com/)  | [如何快速的给论文做图？直接套用模板！](https://www.bilibili.com/video/BV1Cz4y157fb/?spm_id_from=333.880.my_history.page.click&vd_source=194b3e51914a9ddf37370d8009c00511) | Python Graph Gallery 是一个在线资源，提供了大量使用 Python 进行数据可视化的示例和教程。|
+|  **python-graph-gallery**  |   [python-graph-gallery]:<br>https://python-graph-gallery.com/  | [如何快速的给论文做图？直接套用模板！](https://www.bilibili.com/video/BV1Cz4y157fb/?spm_id_from=333.880.my_history.page.click&vd_source=194b3e51914a9ddf37370d8009c00511) | Python Graph Gallery 是一个在线资源，提供了大量使用 Python 进行数据可视化的示例和教程。|
 
 # 论文写作工具
 |  工具   | 链接  | 使用教程| 优点|
