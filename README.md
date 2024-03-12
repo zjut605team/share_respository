@@ -1,2 +1,2 @@
 # share_respository
-Repository for sharing
+我们可以把一些好的值得分享的模型链接或者论文链接之类的放在这个库里面
